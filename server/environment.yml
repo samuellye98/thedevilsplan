@@ -1,0 +1,12 @@
+name: devils_plan
+dependencies:
+  - python >= 3.6
+  - pip
+  - pip:
+      - Flask
+      - requests
+      - flask_socketio
+      - flask_cors
+      - json-fix
+      - numpy
+      - scipy
